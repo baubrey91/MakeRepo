@@ -4,7 +4,6 @@
 //  main.swift
 //  MakeRepo v0.1.0
 //
-//  Created by Garric Nahapetian on 11/25/16.
 //  Credit to John Sundell and SwiftPlate: https://github.com/JohnSundell/SwiftPlate
 //
 
